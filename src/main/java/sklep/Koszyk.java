@@ -37,4 +37,4 @@ public class Koszyk {
         }
         return sum;
     }
-}
+//Przykładowy komentarz
